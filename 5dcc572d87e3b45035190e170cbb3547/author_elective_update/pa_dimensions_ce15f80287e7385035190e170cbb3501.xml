@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="DELETE">
+        <active>true</active>
+        <conditions table="sys_choice">name=x_snc_fuel_watch_fuel_price_history<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="x_snc_fuel_watch_fuel_price_history"/>
+        </conditions>
+        <description/>
+        <empty_value/>
+        <facts_table>sys_choice</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>Fuel Product</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:13:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce15f80287e7385035190e170cbb3501</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Product</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>pa_dimensions_ce15f80287e7385035190e170cbb3501</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:13:16</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="DELETE" query="documentkey=ce15f80287e7385035190e170cbb3501"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</application>
+        <file_path/>
+        <instance_id>a2fc6ab4dbc2f01052dd2f17d49619ea</instance_id>
+        <instance_name>mattdemo</instance_name>
+        <name>pa_dimensions_ce15f80287e7385035190e170cbb3501</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions table="sys_choice">name=x_snc_fuel_watch_fuel_price_history<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="x_snc_fuel_watch_fuel_price_history"/></conditions><description/><empty_value/><facts_table>sys_choice</facts_table><field>sys_id</field><manual_breakdown/><name>Fuel Product</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>matt.dodd</sys_created_by><sys_created_on>2021-11-02 08:13:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce15f80287e7385035190e170cbb3501</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fuel Product</sys_name><sys_overrides/><sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package><sys_policy/><sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope><sys_update_name>pa_dimensions_ce15f80287e7385035190e170cbb3501</sys_update_name><sys_updated_by>matt.dodd</sys_updated_by><sys_updated_on>2021-11-02 08:13:16</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=ce15f80287e7385035190e170cbb3501"/></record_update>]]></payload>
+        <payload_hash>-976447304</payload_hash>
+        <record_name>Fuel Product</record_name>
+        <reverted_from/>
+        <source>11cc572d87e3b45035190e170cbb35ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:13:16</sys_created_on>
+        <sys_id>0085744e872b385035190e170cbb35e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17cdfb5a60b0000001</sys_recorded_at>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:13:16</sys_updated_on>
+        <type>Breakdown Source</type>
+        <update_guid>c485744eb42b3850073ba558129760df</update_guid>
+        <update_guid_history>c485744eb42b3850073ba558129760df:-976447304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Fuel Product">ce2a3c46876b385035190e170cbb351b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:33:37</sys_created_on>
+        <sys_db_object display_value="" name="pa_dimensions">pa_dimensions</sys_db_object>
+        <sys_id>300d685e4ec940969420396a94da8564</sys_id>
+        <sys_metadata>ce15f80287e7385035190e170cbb3501</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Product</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_scope_delete display_value="">1362556457684a3c8284f738e7aeb210</sys_scope_delete>
+        <sys_update_name>pa_dimensions_ce15f80287e7385035190e170cbb3501</sys_update_name>
+        <sys_update_version display_value="pa_dimensions_ce15f80287e7385035190e170cbb3501">0085744e872b385035190e170cbb35e0</sys_update_version>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:33:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

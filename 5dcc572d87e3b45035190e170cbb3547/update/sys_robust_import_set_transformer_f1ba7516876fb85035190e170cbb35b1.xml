@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <batch_size>20000</batch_size>
+        <description/>
+        <name>Fuel Watch Robust Transform</name>
+        <properties/>
+        <robust_transform_engine display_value="Fuel Watch ETL">23543d1e872fb85035190e170cbb353c</robust_transform_engine>
+        <source_table>x_snc_fuel_watch_fw_historical_import</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-03 07:54:26</sys_created_on>
+        <sys_id>f1ba7516876fb85035190e170cbb35b1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fuel Watch Robust Transform</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_f1ba7516876fb85035190e170cbb35b1</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-03 13:53:30</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

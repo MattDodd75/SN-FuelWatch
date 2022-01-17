@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Fuel Watch Analytics - New Tab">14a42b218767b45035190e170cbb3572</canvas_page>
+        <name>Fuel Watch Analytics - New Tab</name>
+        <page display_value="PA Fuel Watch Analytics - New Tab">18a42b218767b45035190e170cbb3570</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-01 07:41:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ca42b218767b45035190e170cbb3574</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Watch Analytics - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>pa_tabs_9ca42b218767b45035190e170cbb3574</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-01 07:41:27</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">e314a76d2f27b45042872b377d502c13</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">e714a76ddb27b450225a52ba6b1fb213</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-11-01 07:39:16</sys_created_on>
+        <sys_id>2314a76d7627b450bcf3dc0555843014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_2314a76d7627b450bcf3dc0555843014</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-11-01 07:39:16</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Article page">2714a76dd627b4504c8a533b5eaf0c10</macroponent>
+        <name>Show Delete Comment Alert</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "deleteCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: "Comment deleted.",
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-11-01 07:39:16</sys_created_on>
+        <sys_id>6b14a76dc227b4503f12a82de7bbf111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Delete Comment Alert</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sys_ux_client_script_6b14a76dc227b4503f12a82de7bbf111</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-11-01 07:39:16</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="fw_historical_import" max_length="40" name="x_snc_fuel_watch_fw_historical_import" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADDRESS" label="ADDRESS" max_length="45" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AREA_DESCRIPTION" label="AREA_DESCRIPTION" max_length="40" name="u_area_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BRAND_DESCRIPTION" label="BRAND_DESCRIPTION" max_length="40" name="u_brand_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_11" label="field_11" max_length="40" name="u_field_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOCATION" label="LOCATION" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=POSTCODE" label="POSTCODE" max_length="40" name="u_postcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PRODUCT_DESCRIPTION" label="PRODUCT_DESCRIPTION" max_length="40" name="u_product_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PRODUCT_PRICE" label="PRODUCT_PRICE" max_length="40" name="u_product_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PUBLISH_DATE" label="PUBLISH_DATE" max_length="40" name="u_publish_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=REGION_DESCRIPTION" label="REGION_DESCRIPTION" max_length="40" name="u_region_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TRADING_NAME" label="TRADING_NAME" max_length="51" name="u_trading_name" type="string"/>
+    </element>
+</database>

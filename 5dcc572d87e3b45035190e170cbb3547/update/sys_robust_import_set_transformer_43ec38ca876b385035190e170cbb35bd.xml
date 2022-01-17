@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Fuel Prices</description>
+        <name>Fuel Prices_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Fuel Prices_etl_ihub">07ec38ca876b385035190e170cbb35ba</robust_transform_engine>
+        <source_table>ihub_import_c2cc748a876b385035190e170cbb3562</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:45:42</sys_created_on>
+        <sys_id>43ec38ca876b385035190e170cbb35bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Prices_rte_ihub</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_43ec38ca876b385035190e170cbb35bd</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:45:42</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

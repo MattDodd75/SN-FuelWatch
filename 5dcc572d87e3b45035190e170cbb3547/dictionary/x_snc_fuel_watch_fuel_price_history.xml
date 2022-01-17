@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="fuel_price_history" max_length="40" name="x_snc_fuel_watch_fuel_price_history" sizeclass="81644" type="collection">
+        <element label="Address" max_length="300" name="address" type="string"/>
+        <element label="Area" max_length="50" name="area" type="string"/>
+        <element display="true" label="Brand" max_length="40" name="brand" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Postcode" max_length="40" name="postcode" type="integer"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element choice="3" label="Product" max_length="40" name="product" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="98 RON" sequence="10" value="ron"/>
+                <element inactive_on_update="false" label="Brand Diesel" sequence="20" value="brand_diesel"/>
+                <element inactive_on_update="false" label="Diesel" sequence="30" value="diesel"/>
+                <element inactive_on_update="false" label="E85" sequence="40" value="e85"/>
+                <element inactive_on_update="false" label="LPG" sequence="50" value="lpg"/>
+                <element inactive_on_update="false" label="PULP" sequence="60" value="pulp"/>
+                <element inactive_on_update="false" label="ULP" sequence="70" value="ulp"/>
+            </choice>
+        </element>
+        <element label="Publish Date" max_length="40" name="publish_date" type="glide_date"/>
+        <element label="Region" max_length="50" name="region" type="string"/>
+        <element label="Trading Name" max_length="100" name="trading_name" type="string"/>
+    </element>
+</database>

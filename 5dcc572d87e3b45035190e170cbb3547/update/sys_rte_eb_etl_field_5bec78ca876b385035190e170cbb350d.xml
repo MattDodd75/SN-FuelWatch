@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>region</field>
+        <name>Region</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:45:42</sys_created_on>
+        <sys_id>5bec78ca876b385035190e170cbb350d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Region</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Fuel Prices_etl_ihub">07ec38ca876b385035190e170cbb35ba</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_snc_fuel_watch_fuel_price_history">53ec38ca876b385035190e170cbb35fe</sys_rte_eb_entity>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_5bec78ca876b385035190e170cbb350d</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:45:42</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

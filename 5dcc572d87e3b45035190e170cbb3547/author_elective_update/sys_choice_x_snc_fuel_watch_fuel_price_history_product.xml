@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product" table="x_snc_fuel_watch_fuel_price_history" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:06</sys_created_on>
+            <sys_id>304f108a87a7385035190e170cbb358e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product</sys_name>
+            <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+            <sys_update_name>sys_choice_x_snc_fuel_watch_fuel_price_history_product</sys_update_name>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>98 RON</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>304f108a87a7385035190e170cbb358d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:06</sys_updated_on>
+            <value>ron</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brand Diesel</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f84f108a87a7385035190e170cbb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:06</sys_updated_on>
+            <value>brand_diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diesel</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>344f1cc687a7385035190e170cbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:06</sys_updated_on>
+            <value>diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E85</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>344f1cc687a7385035190e170cbb3576</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:07</sys_updated_on>
+            <value>e85</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LPG</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>304f108a87a7385035190e170cbb35b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:07</sys_updated_on>
+            <value>lpg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PULP</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>894f108a87a7385035190e170cbb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:07</sys_updated_on>
+            <value>pulp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ULP</label>
+            <language>en</language>
+            <name>x_snc_fuel_watch_fuel_price_history</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>matt.dodd</sys_created_by>
+            <sys_created_on>2021-11-02 06:36:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>014f108a87a7385035190e170cbb35b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt.dodd</sys_updated_by>
+            <sys_updated_on>2021-11-02 06:36:07</sys_updated_on>
+            <value>ulp</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

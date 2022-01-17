@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting Product - Cheapest Fuel Prices</display>
+        <indicator display_value="Cheapest Fuel Prices">261e948687a7385035190e170cbb35ef</indicator>
+        <job display_value="temporary job for collecting Product">f0e5b88e872b385035190e170cbb35a5</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:14:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70e5bc8e872b385035190e170cbb3560</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cheapest Fuel Prices.temporary job for collecting Product</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>pa_job_indicators_70e5bc8e872b385035190e170cbb3560</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:14:57</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

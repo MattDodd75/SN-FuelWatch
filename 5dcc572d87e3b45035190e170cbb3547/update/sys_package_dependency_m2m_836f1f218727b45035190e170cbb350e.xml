@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">29c467a71b031010bca943f28d4bcbde</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-01 07:18:42</sys_created_on>
+        <sys_id>836f1f218727b45035190e170cbb350e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-01 07:18:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

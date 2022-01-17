@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>scores_text</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description/>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>Fuel Watch Historical</name>
+        <offset/>
+        <offset_type/>
+        <run_as display_value="Matt Dodd">9cb045331b8b1010bca943f28d4bcb62</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2021-11-02 08:19:27</run_start>
+        <run_time>1969-12-31 16:00:00</run_time>
+        <run_type>once</run_type>
+        <score_fixed_end>20210131</score_fixed_end>
+        <score_fixed_start>20210101</score_fixed_start>
+        <score_operator>fixed</score_operator>
+        <score_relative_end/>
+        <score_relative_end_interval/>
+        <score_relative_start/>
+        <score_relative_start_interval/>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>matt.dodd</sys_created_by>
+        <sys_created_on>2021-11-02 08:20:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bee6bc02876b385035190e170cbb35d9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Fuel Watch Historical</sys_name>
+        <sys_package display_value="Fuel Watch" source="x_snc_fuel_watch">5dcc572d87e3b45035190e170cbb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fuel Watch">5dcc572d87e3b45035190e170cbb3547</sys_scope>
+        <sys_update_name>sysauto_pa_bee6bc02876b385035190e170cbb35d9</sys_update_name>
+        <sys_updated_by>matt.dodd</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:35:31</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="delete_multiple" query="documentkey=bee6bc02876b385035190e170cbb35d9"/>
+</record_update>
